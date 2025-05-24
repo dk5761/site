@@ -106,7 +106,7 @@ export const projects: Project[] = [
 export const experience: Experience[] = [
   {
     name: "Rezolv Ai",
-    position: "Software Developer (Frontend & Mobile)",
+    position: "Software Developer",
     description:
       "Pioneered the development of user-centric web and mobile applications, taking full ownership of the frontend lifecycle from concept to deployment.\n\
 Architecting and building responsive and interactive web application UIs from scratch using React.js, TypeScript, and TailwindCSS, ensuring high performance and scalability.\n\
@@ -122,7 +122,7 @@ Actively participating in agile development cycles, code reviews, and troublesho
   },
   {
     name: "Liquid Diamonds",
-    position: "Software Developer (Frontend Focus)",
+    position: "Software Developer",
     description:
       "Developed full-stack solutions with a primary focus on React.js for the frontend and Node.js for backend services. Key contributions include:\n\
 Designing and implementing a critical tool for diamond traders, enabling effective comparison between supplier and market diamond data.\n\
@@ -133,7 +133,7 @@ Engineering a Node.js and React application to automate the parsing of Excel she
   },
   {
     name: "Cybertech Systems and Software LTD.",
-    position: "UI Developer - React.js",
+    position: "UI Developer",
     description:
       "Specialized as a React Developer, delivering multiple projects for diverse clients, primarily within the GIS industry and for ESRI-based solutions. Key achievements include:\n\
 Successfully integrating complex mapping and GIS technologies with React to build highly performant, interactive, and functional websites.\n\
@@ -144,7 +144,7 @@ Developing an internal management tool using React Native, enhancing operational
   },
   {
     name: "Youth Technologies",
-    position: "Backend Developer - Django",
+    position: "Backend Developer",
     description:
       "Contributed as a Backend Developer using Python and Django.\n\
 Key responsibilities included implementing a robust authentication system for Django REST APIs.\n\
